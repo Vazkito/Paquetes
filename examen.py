@@ -12,6 +12,7 @@ lista=[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 indice=0
 
 kk
+llll
 
 while indice<15:
     
